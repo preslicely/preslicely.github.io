@@ -1,0 +1,121 @@
+body{
+	background-color: #708bcd;
+	margin: 0px;
+}
+h1{
+	font-family: Futura;
+	font-weight: lighter;
+	font-size: 55px;
+	color: white;
+	text-align: center;
+	letter-spacing: 4px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+p{
+	font-family: Helvetica;
+	font-weight: lighter;
+	font-size: 20px;
+	color: white;
+	text-align: justify;
+	line-height: 40px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+a:link{
+	color: white;
+}
+a:visited{
+	color: #3e5fb1;
+}
+a:hover{
+	color:#3e5fb1;
+}
+ul{
+	list-style: circle;
+	text-align: justify;
+	line-height: 50px;
+	padding-right: 10px;
+	padding-left: 50px;
+}
+li{
+	color: #708bcd;
+	font-family: Helvetica;
+	font-weight: lighter;
+	font-size: 20px;
+}
+
+.navbar-logo{
+	height: 10%;
+}
+.navbar-styling{
+	background-color: #708bcd;
+	border-bottom: solid white 2px;
+}
+.header-img{
+	background-image: url("../img/pizza-slice.jpeg");
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+}
+.header-logo{
+	padding-top: 75vh;
+	padding-left:30vh;
+}
+.body-img-1{
+	height: 700px;
+}
+.text-box{
+	border: white 3px solid;
+	border-radius: 20px;
+	width: 500px;
+}
+.divider-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    }
+ .menu-box{
+ 	background-color: white;
+ 	border: white 3px solid;
+	margin:10px;
+	padding: 10px;
+ }
+ .map-box{
+ 	border: white 3px solid;
+	border-radius: 20px;
+	padding-bottom: 40px;
+ }
+ .logotype-end{
+ 	padding-bottom: 40px;
+ 	margin: auto;
+ 	text-align: center;
+ }	
+.section-space{
+	padding-top: 70px;
+	padding-bottom: 70px;
+ #map {
+        height: 400px;
+        width: 100%;
+       }
+}
+
+/*
+}
+.form{
+	display: inline-block;
+	}
+.img-width{
+	width: 100%;
+}
+.round-img{
+	border-radius: 5%;
+}
+.img-padding{
+	padding: 35px;
+}
+*/
